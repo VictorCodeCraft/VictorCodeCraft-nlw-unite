@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Capa NLW Expert - Rocketseat" src=".github/capa.png" width="750px" />
+  <img alt="Capa NLW Expert - Rocketseat" src=".github/capa.png" width="850px" />
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Aplicação desenvolvida no NLW Unite da Rocketseat na trilha HTML+CSS+JS.
 <br>
 
 <p align="center">
-  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="60%">
+  <img alt="Preview do projeto desenvolvido." src=".github/preview.png" width="850px">
 </p>
 
 ## 🌐 Projeto
